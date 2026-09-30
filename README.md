@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <!-- 3D Animated Header Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=280&section=header&text=Siddhant%20Giri&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=Software%20Engineering%20%7C%20Systems%20%7C%20Full-Stack%20%7C%20Applied%20AI&descSize=18&descColor=C9D1D9&descAlignY=52" width="100%" alt="3D Header"/>
@@ -156,7 +156,18 @@ Architecture   : RESTful Microservices, Relational Schema Design, Real-time Sens
 
 ## 🚀 Featured Engineering Projects
 
-### 01. Business Entity Resolution & Record Linkage Engine
+### 01. StarChain CRM — Enterprise Operating System
+> **Full-featured enterprise CRM and business operations platform with role-based access, real-time dashboards, and modular architecture.**
+
+- **Problem**: Growing organizations manage leads, deals, employees, invoices, and communications across fragmented tools, creating data silos and operational friction.
+- **Engineering Solution**: Architected a comprehensive enterprise OS featuring a command palette for global search, collapsible sidebar with module grouping, real-time notification system, and organization-level multi-tenancy. Implemented a phased module rollout covering Overview Dashboard, Employee Management, Messaging, Audit Logs, and Settings in Phase 1.
+- **Key Technical Highlight**: Built a dense, operational dark-mode UI with sub-component theming (charcoal/turquoise palette), Supabase-backed row-level security for multi-tenant isolation, and modular TypeScript architecture enabling incremental CRM/Sales/Finance module activation.
+- **Tech Stack**: `React`, `TypeScript`, `Vite`, `Tailwind CSS`, `Supabase`, `PostgreSQL`, `Lucide Icons`, `Vercel`
+- **Links**: [Repository & Code](https://github.com/Siddhant2622/starchain_crm) · [Live Demo](https://github.com/Siddhant2622/starchain_crm)
+
+---
+
+### 02. Business Entity Resolution & Record Linkage Engine
 > **High-cardinality entity resolution system to de-duplicate and link noisy business listings at scale.**
 *Developed for the Amazon ML Challenge*
 
@@ -168,7 +179,7 @@ Architecture   : RESTful Microservices, Relational Schema Design, Real-time Sens
 
 ---
 
-### 02. Sentria Samadhan — Civic-Tech & AI Evaluation Platform
+### 03. Sentria Samadhan — Civic-Tech & AI Evaluation Platform
 > **Intelligent civic platform integrating LLM-driven interview simulation, resume extraction, and credentials verification.**
 
 - **Problem**: Traditional citizen skill evaluation and civic onboarding face immense evaluation latency and manual verification overhead.
@@ -179,7 +190,7 @@ Architecture   : RESTful Microservices, Relational Schema Design, Real-time Sens
 
 ---
 
-### 03. AI-Powered Industrial Predictive Maintenance System
+### 04. AI-Powered Industrial Predictive Maintenance System
 > **Hardware-to-cloud telemetry pipeline detecting mechanical degradation before threshold breach.**
 
 - **Problem**: Unscheduled industrial machinery failures cause severe operational downtime; reactive maintenance schedules fail to capture subtle vibration and thermal anomalies.
@@ -190,7 +201,7 @@ Architecture   : RESTful Microservices, Relational Schema Design, Real-time Sens
 
 ---
 
-### 04. MBBS-WALA — NEET Cutoff & Admission Predictor
+### 05. MBBS-WALA — NEET Cutoff & Admission Predictor
 > **Algorithmic counselling seat allocation predictor processing multi-year volatile cutoff records.**
 
 - **Problem**: Over 2 million students navigate complex multi-round medical college counselling with shifting seat matrices, state quotas, and category reservations.
@@ -201,7 +212,7 @@ Architecture   : RESTful Microservices, Relational Schema Design, Real-time Sens
 
 ---
 
-### 05. College Academic ERP & Student Management Suite
+### 06. College Academic ERP & Student Management Suite
 > **Cross-platform campus management application centralizing attendance tracking, notices, and academic performance.**
 
 - **Problem**: Disjointed academic portals lead to missed deadlines, manual paper attendance auditing, and poor communication between faculty and students.
@@ -212,7 +223,7 @@ Architecture   : RESTful Microservices, Relational Schema Design, Real-time Sens
 
 ---
 
-### 06. Roti Bank Bettiah — NGO Production Platform
+### 07. Roti Bank Bettiah — NGO Production Platform
 > **Production web platform orchestrating donor contributions, volunteer dispatch, and public transparency for an active NGO.**
 
 - **Problem**: Grassroots hunger-relief organizations struggle with volunteer coordination, ad-hoc donation records, and lack of verified digital presence.
