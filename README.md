@@ -46,7 +46,7 @@ Architecture   : RESTful Microservices, Relational Schema Design, Real-time Sens
 | Domain | Focus & Engineering Philosophy | Representative Work |
 | :--- | :--- | :--- |
 | **Applied AI & NLP** | Multimodal LLM pipelines, automated interview simulations, resume parsing, and noisy text matching. | *Sentria Samadhan*, *Voice Processing Labs* |
-| **Full-Stack Systems** | Type-safe frontends, relational PostgreSQL data layers, role-based auth, and REST APIs. | *Roti Bank Bettiah*, *College ERP* |
+| **Full-Stack Systems** | Type-safe frontends, relational PostgreSQL data layers, role-based auth, and REST APIs. | *StarChain CRM*, *Roti Bank Bettiah*, *College ERP* |
 | **Data & Prediction Systems** | Heuristic ranking, fuzzy string matching, entity blocking algorithms, and cutoff predictions. | *Amazon ML Challenge (F0.5)*, *NEET Predictor* |
 | **IoT & Edge Intelligence** | Telemetry acquisition, embedded sensor interfacing (Arduino), and predictive failure detection. | *Predictive Maintenance System* |
 
