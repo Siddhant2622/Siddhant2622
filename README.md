@@ -1,15 +1,19 @@
 <div align="center">
 
-# Siddhant Giri
+<!-- 3D Animated Header Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=220&section=header&text=Siddhant%20Giri&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%7C%20Systems%20%7C%20Full-Stack%20%7C%20Applied%20AI&descSize=16&descColor=8B949E&descAlignY=55" width="100%" alt="3D Header"/>
 
-**Software Engineering & ECE Undergrad · Systems, Full-Stack & Applied AI**
+<!-- Animated Typing SVG -->
+<a href="https://github.com/Siddhant2622">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+real+systems+that+solve+real+problems;C%2B%2B+%7C+Full-Stack+%7C+AI%2FML+%7C+IoT+Engineer" alt="Typing SVG" />
+</a>
 
-A builder bridging low-level C++ systems and hardware telemetry with scalable full-stack web platforms and applied AI/ML systems.
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhant-giri26)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/siddhant_giri/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Siddhant2622)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:siddhantgiri2622@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhant-giri26)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/siddhant_giri/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Siddhant2622)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhantgiri2622@gmail.com)
 
 ---
 
@@ -50,48 +54,103 @@ Architecture   : RESTful Microservices, Relational Schema Design, Real-time Sens
 
 ## 🛠️ Technical Arsenal
 
-### Languages & Systems
-![C++](https://img.shields.io/badge/C++17/20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+<div align="center">
 
-### Frontend & Mobile
-![React](https://img.shields.io/badge/React_18+-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![HTML5/CSS3](https://img.shields.io/badge/HTML5_&_CSS3-E34F26?style=flat-square&logo=html5&logoColor=white)
+<!-- 3D Animated Tech Stack Icons -->
+<table>
+<tr>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+  <br><sub><b>C++</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  <br><sub><b>JavaScript</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+  <br><sub><b>TypeScript</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+  <br><sub><b>Python</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  <br><sub><b>React</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+  <br><sub><b>REST APIs</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  <br><sub><b>GitHub</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
+  <br><sub><b>Nginx</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="SQL" width="65" height="65" />
+  <br><sub><b>SQL</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  <br><sub><b>Docker</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" />
+  <br><sub><b>Node.js</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" width="48" height="48" />
+  <br><sub><b>Express</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="48" height="48" />
+  <br><sub><b>Supabase</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" height="48" />
+  <br><sub><b>PostgreSQL</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="48" height="48" />
+  <br><sub><b>Flutter</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="48" height="48" />
+  <br><sub><b>Vite</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="48" height="48" />
+  <br><sub><b>Tailwind</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="48" height="48" />
+  <br><sub><b>Firebase</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="48" height="48" />
+  <br><sub><b>Arduino</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="48" height="48" />
+  <br><sub><b>Linux</b></sub>
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="48" height="48" />
+  <br><sub><b>Git</b></sub>
+</td>
+</tr>
+</table>
 
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![REST APIs](https://img.shields.io/badge/REST_Architecture-2496ED?style=flat-square&logo=fastapi&logoColor=white)
-
-### AI / ML & Computer Vision
-![Machine Learning](https://img.shields.io/badge/Applied_ML-FF6F00?style=flat-square&logo=scikit-learn&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP_Pipelines-4B8BBE?style=flat-square&logo=python&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Google_Gemini_API-8E75C2?style=flat-square&logo=google&logoColor=white)
-![Audio Processing](https://img.shields.io/badge/Audio_Processing-1DB954?style=flat-square&logo=audacity&logoColor=white)
-
-### Hardware & IoT
-![Arduino](https://img.shields.io/badge/Arduino_Hardware-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Embedded C++](https://img.shields.io/badge/Embedded_C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Sensors & Telemetry](https://img.shields.io/badge/Sensor_Telemetry-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Serial Communication](https://img.shields.io/badge/I2C_/_UART_/_SPI-333333?style=flat-square&logo=microgenetics&logoColor=white)
-
-### Tooling & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_CLI-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+</div>
 
 ---
 
@@ -177,12 +236,33 @@ Architecture   : RESTful Microservices, Relational Schema Design, Real-time Sens
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Siddhant2622&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="155" alt="Siddhant's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant2622&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="155" alt="Most Used Languages" />
+<!-- GitHub Stats Cards -->
+<img src="https://github-readme-stats.vercel.app/api?username=Siddhant2622&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" height="165" alt="Siddhant's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant2622&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" alt="Most Used Languages" />
 
 <br/>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/siddhant_giri?theme=dark&font=Inter&ext=activity)](https://leetcode.com/u/siddhant_giri/)
+<!-- GitHub Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhant2622&theme=tokyonight_duo&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" height="165" alt="GitHub Streak" />
+
+<br/><br/>
+
+<!-- Animated Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddhant2622&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B35&area=true&area_color=58A6FF&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="95%" alt="Activity Graph" />
+
+<br/><br/>
+
+<!-- LeetCode Stats -->
+[![LeetCode Stats](https://leetcard.jacoblin.cool/siddhant_giri?theme=dark&font=JetBrains+Mono&ext=activity)](https://leetcode.com/u/siddhant_giri/)
+
+<br/>
+
+<!-- Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siddhant2622/Siddhant2622/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siddhant2622/Siddhant2622/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Siddhant2622/Siddhant2622/output/github-snake-dark.svg" width="95%" />
+</picture>
 
 </div>
 
@@ -201,11 +281,14 @@ Architecture   : RESTful Microservices, Relational Schema Design, Real-time Sens
 
 ## 📬 Connect With Me
 
-- **LinkedIn**: [linkedin.com/in/siddhant-giri26](https://www.linkedin.com/in/siddhant-giri26)
-- **GitHub**: [github.com/Siddhant2622](https://github.com/Siddhant2622)
-- **LeetCode**: [leetcode.com/u/siddhant_giri/](https://leetcode.com/u/siddhant_giri/)
-- **Email**: [siddhantgiri2622@gmail.com](mailto:siddhantgiri2622@gmail.com)
-
 <div align="center">
-<sub>Crafted with engineering rigor · Siddhant Giri © 2026</sub>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhant-giri26)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/siddhant_giri/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Siddhant2622)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhantgiri2622@gmail.com)
+
 </div>
+
+<!-- 3D Animated Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:161B22,100:0D1117&height=120&section=footer" width="100%" alt="Footer"/>
