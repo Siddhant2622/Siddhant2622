@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- 3D Animated Header Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=220&section=header&text=Siddhant%20Giri&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%7C%20Systems%20%7C%20Full-Stack%20%7C%20Applied%20AI&descSize=16&descColor=8B949E&descAlignY=55" width="100%" alt="3D Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=280&section=header&text=Siddhant%20Giri&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=Software%20Engineering%20%7C%20Systems%20%7C%20Full-Stack%20%7C%20Applied%20AI&descSize=18&descColor=C9D1D9&descAlignY=52" width="100%" alt="3D Header"/>
 
 <!-- Animated Typing SVG -->
 <a href="https://github.com/Siddhant2622">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+real+systems+that+solve+real+problems;C%2B%2B+%7C+Full-Stack+%7C+AI%2FML+%7C+IoT+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=70&lines=Building+real+systems+that+solve+real+problems;C%2B%2B+%7C+Full-Stack+%7C+AI%2FML+%7C+IoT+Engineer" alt="Typing SVG" />
 </a>
 
 <br/>
