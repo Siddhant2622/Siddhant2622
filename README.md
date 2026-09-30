@@ -11,7 +11,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhant-giri26)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/siddhant_giri/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-399%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/siddhant_giri/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Siddhant2622)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddhantgiri2622@gmail.com)
 
@@ -243,36 +243,65 @@ Architecture   : RESTful Microservices, Relational Schema Design, Real-time Sens
 
 ---
 
-## 📈 Activity & Development Stats
+## 📈 Engineering Activity & Metrics
 
 <div align="center">
 
-<!-- GitHub Stats Cards -->
+<!-- GitHub Stats & Languages -->
 <img src="https://github-readme-stats.vercel.app/api?username=Siddhant2622&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" height="165" alt="Siddhant's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant2622&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" alt="Most Used Languages" />
 
 <br/>
 
-<!-- GitHub Streak Stats -->
+<!-- GitHub Streak & Developer Quote -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhant2622&theme=tokyonight_duo&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" height="165" alt="GitHub Streak" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" height="165" alt="Developer Quote" />
 
-<br/><br/>
+</div>
 
-<!-- Animated Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddhant2622&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B35&area=true&area_color=58A6FF&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="95%" alt="Activity Graph" />
+---
 
-<br/><br/>
+## ⚡ LeetCode Problem Solving & Algorithm Mastery
 
-<!-- LeetCode Stats -->
-[![LeetCode Stats](https://leetcard.jacoblin.cool/siddhant_giri?theme=dark&font=JetBrains+Mono&ext=activity)](https://leetcode.com/u/siddhant_giri/)
+<div align="center">
+
+<!-- Animated Typing Subheader for LeetCode -->
+<a href="https://leetcode.com/u/siddhant_giri/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=FFA116&center=true&vCenter=true&multiline=false&width=650&height=35&lines=399%2B+Problems+Solved+%7C+157+Easy+%C2%B7+188+Medium+%C2%B7+54+Hard;Active+Daily+Practitioner+in+C%2B%2B+%7C+Global+Rank+%23326%2C395" alt="LeetCode Animated Bar" />
+</a>
 
 <br/>
 
-<!-- Contribution Snake Animation -->
+<!-- Animated LeetCode Stats Card with Activity Stream -->
+<a href="https://leetcode.com/u/siddhant_giri/">
+  <img src="https://leetcard.jacoblin.cool/siddhant_giri?theme=dark&font=JetBrains+Mono&ext=activity" alt="LeetCode Stats & Recent Activity" width="490" />
+</a>
+
+<br/><br/>
+
+### 🐍 LeetCode Submissions Snake Animation
+<sub><b>Interactive snake navigating 780+ LeetCode submissions across 53 weeks of problem solving</b></sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siddhant2622/Siddhant2622/output/leetcode-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siddhant2622/Siddhant2622/output/leetcode-snake.svg" />
+  <img alt="LeetCode Snake Animation" src="https://raw.githubusercontent.com/Siddhant2622/Siddhant2622/output/leetcode-snake-dark.svg" width="95%" />
+</picture>
+
+</div>
+
+---
+
+## 🐍 GitHub Contribution Snake Animation
+
+<div align="center">
+
+<sub><b>Real-time snake game navigating and consuming GitHub commits and pull requests</b></sub>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siddhant2622/Siddhant2622/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siddhant2622/Siddhant2622/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Siddhant2622/Siddhant2622/output/github-snake-dark.svg" width="95%" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Siddhant2622/Siddhant2622/output/github-snake-dark.svg" width="95%" />
 </picture>
 
 </div>
